@@ -5,7 +5,14 @@
 [2. Reciver](#Reciver)  
 
 ## Transmitter
-Text
+Hardware:
+
+BAB32G135GE
+
+Ra-03SCH LoRa Module
+
+
+Debug Pins available but no Connection with ST-Link only UART logging when button is pressed
 
 <img width="300" alt="FrontPCB" src="https://github.com/NicoVeety/obi_energytracker/blob/71d78aa692d4290a7b2c5d8212ac8ee406ee625d/Transmitter/IMG_3590%20-%20Kopie.jpeg">
 <img width="300" alt="IC" src="https://github.com/NicoVeety/obi_energytracker/blob/71d78aa692d4290a7b2c5d8212ac8ee406ee625d/Transmitter/IMG_3593%20-%20Kopie.jpeg">
