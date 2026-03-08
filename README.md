@@ -3,6 +3,7 @@
 ### Table of contents
 [1. Transmitter](#Transmitter)  
 [2. Reciver](#Reciver)  
+[2. Links](#Links)  
 
 ## Transmitter
 Hardware:
@@ -112,3 +113,9 @@ I connected an JST Connector for Debugging to one of my Devices
 
 <img width="300" alt="BackPCB" src="https://github.com/NicoVeety/obi_energytracker/blob/71d78aa692d4290a7b2c5d8212ac8ee406ee625d/Reciver/IMG_3600%20-%20Kopie.jpeg">
 
+## Links
+These are Helpful
+
+https://pages.awscloud.com/rs/112-TZM-766/images/DAT204-Hamburg-EN.pdf
+
+https://www.photovoltaikforum.com/thread/250802-obi-energy-tracker-stromverbrauch-im-blick-energiekosten-unter-kontrolle-ab-29-9/?pageNo=1
