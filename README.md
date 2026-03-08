@@ -43,7 +43,7 @@ ESP32 Pinout:
 ESP32 Daugtherboard:
 | Left Pin | Right Pin |
 |----------|-----------|
-| 3V3      | IO0       |
+| 3V3      | IO0 / LED |
 | EN       | IO1       |
 | IO4      | IO2       |
 | IO5      | IO3       |
