@@ -47,7 +47,7 @@ ESP32 Daugtherboard:
 | GND      |           |
 | IO10     |           |
 
-
+Initial Boot Log:
 ```Initial Boot Log:
 Build:Feb  7 2021
 rst:0x1 (POWERON),boot:0xd (SPI_FAST_FLASH_BOOT)
@@ -60,6 +60,7 @@ entry 0x403ce000
 system start! soft versoin:1.0.1(58) hardware version:6,
 W (601) BTDM_INIT: esp_bt_controller_mem_release not implemented, return OK
 ```
+reboot and no Server reachable Log
 ```reboot and no Server reachable Log
 rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
 configsip: 0, SPIWP:0xee
@@ -79,6 +80,7 @@ E (210281) TRANSPORT_BASE: Failed to open a new connection
 E (210291) MQTT_CLIENT: Error transport connect
 W (215291) MQTT_CLIENT: Client asked to stop, but was not started
 ```
+Boot with normal Operation:
 ```Boot with normal Operation:
 ESP-ROM:esp32c3-api1-20210207
 Build:Feb  7 2021
