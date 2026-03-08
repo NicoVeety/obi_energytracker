@@ -14,8 +14,10 @@ Text
 ## Reciver
 
 Hardware:
+
 ESP32-C3-WROOM-02
-Ra-03SCH
+
+Ra-03SCH LoRa Module
 
 ESP32 Pinout:
 | Function             | ESP Pin | ESP Pin | Function            |
