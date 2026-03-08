@@ -46,7 +46,9 @@ ESP32 Daugtherboard:
 | IO10     |           |
 
 All Grid Power Devices removed to directly connect
+
 <img width="300" alt="FrontPCB" src="https://github.com/NicoVeety/obi_energytracker/blob/71d78aa692d4290a7b2c5d8212ac8ee406ee625d/Reciver/IMG_3599%20-%20Kopie.jpeg">
 I connected an JST Connector for Debugging to one of my Devices
+
 <img width="300" alt="BackPCB" src="https://github.com/NicoVeety/obi_energytracker/blob/71d78aa692d4290a7b2c5d8212ac8ee406ee625d/Reciver/IMG_3600%20-%20Kopie.jpeg">
 
