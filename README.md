@@ -3,7 +3,7 @@
 ### Table of contents
 [1. Transmitter](#Transmitter)  
 [2. Reciver](#Reciver)  
-[2. Links](#Links)  
+[3. Links](#Links)  
 
 ## Transmitter
 Hardware:
@@ -118,4 +118,4 @@ These are Helpful
 
 https://pages.awscloud.com/rs/112-TZM-766/images/DAT204-Hamburg-EN.pdf
 
-https://www.photovoltaikforum.com/thread/250802-obi-energy-tracker-stromverbrauch-im-blick-energiekosten-unter-kontrolle-ab-29-9/?pageNo=1
+https://www.photovoltaikforum.com/thread/250802-obi-energy-tracker-stromverbrauch-im-blick-energiekosten-unter-kontrolle-ab-29-9/
